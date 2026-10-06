@@ -1,0 +1,13 @@
+{
+  "name": "StarXCO",
+  "short_name": "StarXCO",
+  "description": "Petroleum Products | Vessels | Logistics & Trade Facilitation",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05131E",
+  "theme_color": "#05131E",
+  "icons": [
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
